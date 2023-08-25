@@ -14,7 +14,7 @@ You may pull the source code from my GitHub profile under aestrella0140. Under S
 
 -type node index.js and you will be asked to input data into the terminal
 
--Once all input is processed, right click new-README.md and select open preview
+-Once all input is processed, open the examples folder and right click logo.svg open preview option to see your logo rendered
 
 ## Credits
 
@@ -43,3 +43,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## ScreenShot
+
+![Alt text](<screenshot/Screenshot 2023-08-25 153041.png>)
+
+## Demo
+
