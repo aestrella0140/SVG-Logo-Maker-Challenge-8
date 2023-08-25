@@ -31,6 +31,7 @@ const { Triangle, Circle, Square } = require("./lib/shapes.js");
 
 .then((answers) => {
     let svgInfo;
+    // pulling input and render choice to create logo
     if(answers.shapeSelection ==='Circle') {
         svgInfo = new Circle();
         svgInfo.setText(answers.text);
